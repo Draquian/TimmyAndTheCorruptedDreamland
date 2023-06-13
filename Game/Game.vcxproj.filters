@@ -367,4 +367,9 @@
       <UniqueIdentifier>{87a7ce3b-7584-4d96-abee-c045359adbe5}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Public\Desktop\OBS Studio.lnk">
+      <Filter>Scenes\W1</Filter>
+    </None>
+  </ItemGroup>
 </Project>
